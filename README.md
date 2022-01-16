@@ -11,3 +11,5 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+
+I am a student, maybe someone in a mess. I tried to believe what I've been doing at the same time persuading myself that it all worth it, my efforts paid off and I am not alone. But this is not the truth. I questioned myself what is the truth of the world. However, the answer to this question differs according to different persons.
